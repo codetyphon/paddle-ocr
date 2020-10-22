@@ -1,0 +1,6 @@
+flasgger
+Flask
+Flask-RESTful
+flask-cors
+paddlepaddle
+paddlehub
